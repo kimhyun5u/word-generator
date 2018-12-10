@@ -1,2 +1,2 @@
 # word-generator
-It generate random word in World English 2 ch 7~11
+It generates random words in World English 2 ch 7~11
